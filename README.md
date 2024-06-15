@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [Orebi(eCommerce)](http://clone-e-commerce.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://sajibkhan.vercel.app/](https://typo-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at (https://typo-portfolio.vercel.app/)
 
 - 💬 Ask me about **react**
 
