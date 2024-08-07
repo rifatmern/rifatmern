@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on [My Portfolio](https://typo-portfolio.vercel.app/)
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **React JS / Next Js**
 
 - 👯 I’m looking to collaborate on [Orebi(eCommerce)](http://clone-e-commerce.vercel.app/)
 
 - 👨‍💻 All of my projects are available at (https://typo-portfolio.vercel.app/)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **react , Next**
 
 - 📫 How to reach me **ritoukir@gmail.com**
 
@@ -25,7 +25,7 @@
 <a href="https://x.com/rifatibnatoukir">
   <img align="left" alt="Twitter" width="22px" src="./twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/rifat-ibna-toukir/">
+<a href="https://www.linkedin.com/in/rifatmern">
   <img align="left" alt="LinkedIn" width="22px" src="./linkedin.svg" />
 </a>
 <a href="https://www.facebook.com/Rifatibnatoukir82/">
@@ -47,6 +47,6 @@
 <br/>
 
 <p align="center">
-<a href="http://www.github.com/rifatibnatoukir811"><img src="https://github-readme-stats.vercel.app/api?username=rifatibnatoukir811&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="rifatibnatoukir811's GitHub stats" /></a>
-<a href="http://www.github.com/rifatibnatoukir811"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rifatibnatoukir811&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/rifatmern"><img src="https://github-readme-stats.vercel.app/api?username=rifatmern&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="rifatmern's GitHub stats" /></a>
+<a href="http://www.github.com/rifatmern"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rifatmern&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
  </p>
