@@ -7,7 +7,7 @@
 <h3 align="center">I'm an Front-End Developer</h3>
 
 
-- 🔭 I’m currently working on [My Portfolio](https://typo-portfolio.vercel.app/)
+- 🔭 I’m currently working on [My Portfolio](https://rifatmern.vercel.app/)
 
 - 🌱 I’m currently learning **React JS / Next Js**
 
