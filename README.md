@@ -1,4 +1,4 @@
-<h1 align="center">👋I'm <span style="color:#3382ED">Rifat Ebna Towkir</span></h1>
+<h1 align="center">👋I'm <span style="color:#3382ED">Rifat Ibna Toukir</span></h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rifatibnatoukir811&label=Profile%20views&color=0e75b6&style=flat" alt="rifatibnatoukir811" /> </p>
 
